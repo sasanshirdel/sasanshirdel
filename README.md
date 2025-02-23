@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React.js & Vue.js.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sasanshirdel](https://github.com/sasanshirdel)
+- 👨‍💻 All of my projects are available at [sasanshirdel](https://github.com/sasanshirdel)
 
 - 📫 How to reach me **sasanshirdel.mail@gmail.com**
 
