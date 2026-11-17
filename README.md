@@ -20,7 +20,7 @@ Building high-performance web applications, scalable backend systems, AI-powered
     <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram" />
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:sasanshirdel.mail@email.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 
